@@ -1,15 +1,15 @@
-![I am mdsaiful170](https://github.com/mdsaiful170/mdsaiful170/blob/main/hom_img/DRojUzzXRpqAiVCLQKPv7Q.png)
+![I am edujobsbd](https://github.com/edujobsbd/edujobsbd/blob/main/hom_img/DRojUzzXRpqAiVCLQKPv7Q.png)
 
-<h1 align="center">Hi 👋, I'm Md Saiful Islam(MSI)</h1>
+<h1 align="center">Hi 👋, I'm Mehedi Hasan(MH)</h1>
 <h3 align="center">Programmer | Web Designer | Creative Idea | Speed Learner</h3>
 <h4 align="center">Co-founder & Operating Officer at Connect with Saiful</h4>
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=mdsaiful170&color=04AA6D)
+![Profile views](https://komarev.com/ghpvc/?username=edujobsbd&color=04AA6D)
 
 
-Skills:HTML /CSS /JavaScript /React /React Native /Next.js /typeScript 
+Skills:HTML /CSS /JavaScript /React /React Native /Next.js /typeScript /flutter 
 
 </div>
 
@@ -17,26 +17,26 @@ Skills:HTML /CSS /JavaScript /React /React Native /Next.js /typeScript
 
 - 🌱 I’m currently learning Next.js, Angular.js, typeScript
 
-- 👨‍💻 All of my projects are available at [https://github.com/mdsaiful170](https://github.com/mdsaiful170)
+- 👨‍💻 All of my projects are available at [https://github.com/edujobsbd](https://github.com/edujobsbd)
 
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap, React, Next.js, typeScript**
 
-- 📫 How to reach me **saifulsylhet00@gmail.com** 
+- 📫 How to reach me **hasanmdmehedi4321@gmail.com** 
 
-<!--- 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/tutul181)-->
+<!--- 📄 All About Me:[https://lnk.bio/edujobsbd](https://lnk.bio/edujobsbd)-->
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://www.facebook.com/profile.php?id=100042228393950" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
-<a href="https://twitter.com/SaifulIslam170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/md-saiful-islam-2676b2245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdsaiful170" height="30" width="40" /></a>
-<a href="https://codepen.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mdsaiful170" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100026366018348" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mehedi-hasan-9266a6229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edujobsbd" height="30" width="40" /></a>
+<a href="https://codepen.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="edujobsbd" height="30" width="40" /></a>
 <a href="https://www.youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Learn With Tutul" height="30" width="40" /></a>
-<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
-<a href="https://dribbble.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mdsaiful170" height="30" width="40" /></a>
-<a href="https://www.behance.net/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mdsaiful170" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mdmehedi3740/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
+<a href="https://dribbble.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="edujobsbd" height="30" width="40" /></a>
+<a href="https://www.behance.net/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="edujobsbd" height="30" width="40" /></a>
 </p>
 <br/>
 
@@ -85,15 +85,15 @@ Skills:HTML /CSS /JavaScript /React /React Native /Next.js /typeScript
 <br/>
 
 ## Best Repo -
-[![full-education-site](https://github-readme-stats.vercel.app/api/pin/?username=mdsaiful170&repo=full-education-site&border_color=7F3FBF&bg_color=141321&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mdsaiful170/full-education-site)
-[![my-book-stor](https://github-readme-stats.vercel.app/api/pin/?username=mdsaiful170&repo=my-book-stor&border_color=7F3FBF&bg_color=141321&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mdsaiful170/my-book-stor)
-[![ecommerce_website_ecom](https://github-readme-stats.vercel.app/api/pin/?username=mdsaiful170&repo=ecommerce_website_ecom&border_color=7F3FBF&bg_color=141321&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mdsaiful170/ecommerce_website_ecom)
-[![miltipage-food-site](https://github-readme-stats.vercel.app/api/pin/?username=mdsaiful170&repo=miltipage-food-site&border_color=7F3FBF&bg_color=141321&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mdsaiful170/miltipage-food-site)
-[![travel-web](https://github-readme-stats.vercel.app/api/pin/?username=mdsaiful170&repo=travel-web&border_color=7F3FBF&bg_color=141321&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mdsaiful170/travel-web)
-[![Food-backend_website](https://github-readme-stats.vercel.app/api/pin/?username=mdsaiful170&repo=Food-backend_website&border_color=7F3FBF&bg_color=141321&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mdsaiful170/Food-backend_website)
+[![full-education-site](https://github-readme-stats.vercel.app/api/pin/?username=edujobsbd&repo=full-education-site&border_color=7F3FBF&bg_color=141321&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/edujobsbd/full-education-site)
+[![my-book-stor](https://github-readme-stats.vercel.app/api/pin/?username=edujobsbd&repo=my-book-stor&border_color=7F3FBF&bg_color=141321&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/edujobsbd/my-book-stor)
+[![ecommerce_website_ecom](https://github-readme-stats.vercel.app/api/pin/?username=edujobsbd&repo=ecommerce_website_ecom&border_color=7F3FBF&bg_color=141321&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/edujobsbd/ecommerce_website_ecom)
+[![miltipage-food-site](https://github-readme-stats.vercel.app/api/pin/?username=edujobsbd&repo=miltipage-food-site&border_color=7F3FBF&bg_color=141321&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/edujobsbd/miltipage-food-site)
+[![travel-web](https://github-readme-stats.vercel.app/api/pin/?username=edujobsbd&repo=travel-web&border_color=7F3FBF&bg_color=141321&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/edujobsbd/travel-web)
+[![Food-backend_website](https://github-readme-stats.vercel.app/api/pin/?username=edujobsbd&repo=Food-backend_website&border_color=7F3FBF&bg_color=141321&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/edujobsbd/Food-backend_website)
 
 <p align="left">
-  <a href="https://github.com/mdsaiful170?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/edujobsbd?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -103,22 +103,22 @@ Skills:HTML /CSS /JavaScript /React /React Native /Next.js /typeScript
 ## Github Stats -
 
 
-<!---   ![](https://github-readme-streak-stats.herokuapp.com/?user=mdsaiful170&theme=radical&hide_border=false )<br/> -->
+<!---   ![](https://github-readme-streak-stats.herokuapp.com/?user=edujobsbd&theme=radical&hide_border=false )<br/> -->
 
 
 <p align="center">
-  <a href="https://github.com/mdsaiful170">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdsaiful170&theme=radical" alt="Harun's GitHub Contribution"/>
+  <a href="https://github.com/edujobsbd">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edujobsbd&theme=radical" alt="Harun's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/mdsaiful170"><img alt="Harun's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mdsaiful170&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=141321&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/mdsaiful170"><img alt="Harun's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mdsaiful170&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=141321&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/edujobsbd"><img alt="Harun's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=edujobsbd&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=141321&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/edujobsbd"><img alt="Harun's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=edujobsbd&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=141321&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
-![Harun's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdsaiful170&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=141321&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Harun's Graph](https://github-readme-activity-graph.vercel.app/graph?username=edujobsbd&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=141321&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 <br/>
